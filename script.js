@@ -1,11 +1,5 @@
-    let number = "#";
-    console.log(number);
-    console.log(number + "##");
-    console.log(number + "###");
-    console.log(number + "####");
-    console.log(number + "#####");
-    console.log(number + "#######");
-    console.log(number + "########");
+for (let display = "#"; line.length < 8; display = display + "#")
+console.log(display);
 
 
     //THIS IS THE SECOND
