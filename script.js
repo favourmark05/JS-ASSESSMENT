@@ -1,4 +1,4 @@
-for (let display = "#"; line.length < 8; display = display + "#")
+for (let display = "#"; display.length < 8; display = display + "#")
 console.log(display);
 
 
